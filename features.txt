@@ -1,0 +1,16 @@
+say - repeats a string
+ping - responds with bot and api latency in ms
+kick - kicks a user from the server
+	+ sends kicked user DM with reason for kicking
+	+ sends message in server channel who was kicked and why
+	+ only mods can user
+ban - bans a user from the server
+	+ sends banned user a DM with reason for ban
+	+ sends message in server channel who was banned and why
+	+ only mods can user
+dice - rolls dice
+
+ideas
+music stream + queue
+cat video stream
+magic 8 ball
